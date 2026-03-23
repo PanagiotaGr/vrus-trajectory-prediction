@@ -1,0 +1,7 @@
+.venv/
+data/
+raw_scene/
+*.tar.gz
+*.zip
+__pycache__/
+*.pyc
